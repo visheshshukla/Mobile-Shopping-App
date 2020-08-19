@@ -1,12 +1,5 @@
 import React, { useEffect, useCallback, useReducer } from 'react';
-import {
-  View,
-  ScrollView,
-  StyleSheet,
-  Platform,
-  Alert,
-  KeyboardAvoidingView
-} from 'react-native';
+import {  View,  ScrollView,  StyleSheet,  Platform,  Alert,  KeyboardAvoidingView } from 'react-native';
 import { HeaderButtons, Item } from 'react-navigation-header-buttons';
 import { useSelector, useDispatch } from 'react-redux';
 
