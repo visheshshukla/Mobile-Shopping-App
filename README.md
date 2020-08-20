@@ -1,6 +1,7 @@
 # Shopping-App
-
 Project is made with React Native on top of Expo and can run on both Android And IOS Platforms.
+
+(Packages Used- Redux, Thunk, React-Native-Navigation. Google Firebase for Database and Authentication.)
 
 Mobile Shopping App having Cart Feature, Order History and User Authentication(with Signup, Auto Login & Logout).
 
