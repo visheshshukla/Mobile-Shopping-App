@@ -8,4 +8,12 @@ Users can Shop from Catalogue of Products, Order Products they like and also Vie
 
 Users can also Add New Products. They can also View, Edit and Delete Products Added By Them.
 
-![](Screenshots/Screenshot_1.png)
+<img src="Screenshots/Screenshot_1.png" width="250"> <img src="Screenshots/Screenshot_2.png" width="250">
+
+<img src="Screenshots/Screenshot_3.png" width="250"> <img src="Screenshots/Screenshot_4.png" width="250">
+
+<img src="Screenshots/Screenshot_5.png" width="250"> <img src="Screenshots/Screenshot_6.png" width="250">
+
+<img src="Screenshots/Screenshot_7.png" width="250"> <img src="Screenshots/Screenshot_8.png" width="250">
+
+<img src="Screenshots/Screenshot_9.png" width="250"> <img src="Screenshots/Screenshot_10.png" width="250">
