@@ -11,8 +11,8 @@ Users can also Add New Products. They can also View, Edit and Delete Products Ad
 
 <img src="Screenshots/Screenshot_1.png" width="275"> <img src="Screenshots/Screenshot_2.png" width="275"> <img src="Screenshots/Screenshot_3.png" width="275">
 
-<img src="Screenshots/Screenshot_4.png" width="275"> <img src="Screenshots/Screenshot_5.png" width="275"> <img src="Screenshots/Screenshot_6.png" width="275">
+<img src="Screenshots/Screenshot_11.png" width="275"> <img src="Screenshots/Screenshot_4.png" width="275"> <img src="Screenshots/Screenshot_7.png" width="275">
 
-<img src="Screenshots/Screenshot_7.png" width="275"> <img src="Screenshots/Screenshot_8.png" width="275"> <img src="Screenshots/Screenshot_9.png" width="275">
+<img src="Screenshots/Screenshot_5.png" width="275"> <img src="Screenshots/Screenshot_6.png" width="275"> <img src="Screenshots/Screenshot_8.png" width="275">
 
-<img src="Screenshots/Screenshot_10.png" width="275">
+<img src="Screenshots/Screenshot_9.png" width="275"> <img src="Screenshots/Screenshot_10.png" width="275">
