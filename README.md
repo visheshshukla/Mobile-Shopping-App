@@ -1,6 +1,6 @@
 # Shopping-App
 
-**Mobile Shopping App having Cart Feature, Order History and User Authentication(with Signup, Auto Login & Logout).**
+**Mobile App having Cart Feature, Order History and User Authentication(with Signup, Auto Login & Logout).**
 
 **Users can Shop from Catalogue of Products, Add them to Cart and Place Order. They can also view Previous Orders.**
 
