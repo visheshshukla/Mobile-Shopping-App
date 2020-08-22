@@ -8,7 +8,7 @@ export const fetchOrders = () => {
     const userId = getState().auth.userId;
     try {
       const response = await fetch(
-        `https://rn-complete-guide.firebaseio.com/orders/${userId}.json`
+        `https://ng-prj-test.firebaseio.com/orders/${userId}.json`
       );
 
       if (!response.ok) {
@@ -41,7 +41,7 @@ export const addOrder = (cartItems, totalAmount) => {
     const userId = getState().auth.userId;
     const date = new Date();
     const response = await fetch(
-      `https://rn-complete-guide.firebaseio.com/orders/${userId}.json?auth=${token}`,
+      `https://ng-prj-test.firebaseio.com/orders/${userId}.json?auth=${token}`,
       {
         method: 'POST',
         headers: {
