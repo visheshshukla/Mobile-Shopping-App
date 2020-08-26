@@ -2,7 +2,7 @@
 
 **Shopping App having Cart Feature, Order History and User Authentication(with Signup, Auto Login & Logout).**
 
-**Users can Shop from Catalogue of Products, Add them to Cart and Place Order. They can also view Previous Orders.**
+**Users can Shop from Catalogue of Products, Add them to Cart, Place Order and also view thier Previous Orders.**
 
 **Users can also Add New Products to the Catalogue. They can also View, Edit and Delete Products Added By Them.**
 
