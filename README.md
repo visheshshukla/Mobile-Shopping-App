@@ -8,9 +8,9 @@
 
 **Users also get a Push Notification when thier Added Product is Ordered by any Other User.**
 
-**Project is made with React Native on top of Expo and can run on both Android And IOS Platforms.**
+**App is made with React Native on top of Expo and can run on both Android And IOS Platforms.**
 
-**(Packages Used- Redux, Thunk, React-Native-Navigation. Google Firebase for Database and Authentication.)**
+**<ins>Packages Used</ins> - Redux, Thunk, React-Native-Navigation. Google Firebase for Database and Authentication.**
 
 <img src="Screenshots/Screenshot_1.png" width="275"> <img src="Screenshots/Screenshot_2.png" width="275"> <img src="Screenshots/Screenshot_3.png" width="275">
 
