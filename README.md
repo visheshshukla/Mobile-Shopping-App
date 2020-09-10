@@ -8,6 +8,8 @@
 
 **Users also get a Push Notification when thier Added Product is Ordered by any Other User.**
 
+**You can Install the App on Android Devices by using Shopping App.apk File in App Installer Folder.**
+
 **App is made with React Native on top of Expo and can run on both Android And IOS Platforms.**
 
 **<ins>Packages Used</ins> - Redux, Thunk, React-Native-Navigation. Google Firebase for Database and Authentication.**
